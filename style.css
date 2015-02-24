@@ -21,13 +21,14 @@ body {
 #centerText {
   text-align: center;
   display: block;
-  padding: 100px;
+  height: 200px;
+  line-height: 200px;
+
 }
 
 #duke {
   float:left;
   width: 200px;
-  height: 200px;
   background-size: 200px, 200px;
   background-repeat: no-repeat;
   background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
@@ -40,7 +41,6 @@ body {
 #miki {
   float:left;
   width: 200px;
-  height: 200px;
   background-size: 200px, 200px;
   background-repeat: no-repeat;
   background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Miki.jpg");
@@ -50,7 +50,6 @@ body {
 #kelly {
   float:left;
   width: 200px;
-  height: 200px;
   background-size: 200px, 200px;
   background-repeat: no-repeat;
   background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Kelly.jpg");
@@ -59,7 +58,6 @@ body {
 #doc {
   float:left;
   width: 200px;
-  height: 200px;
   background-size: 200px, 200px;
   background-repeat: no-repeat;
   background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/doc-paskowitz-brewer.jpg");
