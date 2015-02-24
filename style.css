@@ -1,0 +1,66 @@
+
+h1 {
+  text-align: center;
+  font-family: "Garamond";
+  src: url('http://fonts.googleapis.com/css?family=Garamond');
+}
+h2 {
+  text-align: center;
+  font-family: "Garamond";
+  src: url('http://fonts.googleapis.com/css?family=Garamond');
+
+}
+
+body {
+  background-image: url("https://yousufnewyork.files.wordpress.com/2013/02/surfer2.jpg");
+  color: crimson;
+  font-family: "Lustria";
+  src: url('http://fonts.googleapis.com/css?family=Lustria');
+}
+
+#centerText {
+  text-align: center;
+  display: block;
+  padding: 100px;
+}
+
+#duke {
+  float:left;
+  width: 200px;
+  height: 200px;
+  background-size: 200px, 200px;
+  background-repeat: no-repeat;
+  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/duke.jpg");
+}
+#duke .img {
+  float:left;
+}
+
+
+#miki {
+  float:left;
+  width: 200px;
+  height: 200px;
+  background-size: 200px, 200px;
+  background-repeat: no-repeat;
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Miki.jpg");
+}
+
+
+#kelly {
+  float:left;
+  width: 200px;
+  height: 200px;
+  background-size: 200px, 200px;
+  background-repeat: no-repeat;
+  background-image: url("http://cdn1.theinertia.com/wp-content/uploads/2013/11/Kelly.jpg");
+}
+
+#doc {
+  float:left;
+  width: 200px;
+  height: 200px;
+  background-size: 200px, 200px;
+  background-repeat: no-repeat;
+  background-image: url("http://cdn2.theinertia.com/wp-content/uploads/2013/11/doc-paskowitz-brewer.jpg");
+}
